@@ -1,2 +1,2 @@
-# Calculator-Project-design-only-non-working-
-First calculator design
+# Calculator-Project-design
+First calculator design (non working)
